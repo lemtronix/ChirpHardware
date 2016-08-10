@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino
+D Connector 01x06
+$ENDCMP
+#
+$CMP CONN_01X01
+D Connector 01x01
+$ENDCMP
+#
+$CMP LP2985LV
+D MICROPOWER 150mA Regulator 
+K REGUL POWER  SOT-23-5
+F regulator/LP2985.pdf
+$ENDCMP
+#
+#End Doc Library
